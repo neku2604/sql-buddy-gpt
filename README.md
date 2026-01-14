@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="Sql Buddy ss.png" alt="Neha Kumari - AI & LLM Enthusiast" width="100%" />
+</p>
+
+
+
+
+
+
 # SQL Buddy 🧠📊  
 A Beginner-Friendly, RAG-Powered SQL Teaching Assistant
 
